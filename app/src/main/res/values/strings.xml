@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HackingEDU</string>
+    <string name="button_start_g1">Gen 1 Only</string>
+    <string name="button_start_g2">Gen 2 Only</string>
+    <string name="button_start_g3">Gen 3 Only</string>
+    <string name="button_start_g4">Gen 4 Only</string>
+    <string name="button_start_g5">Gen 5 Only</string>
+    <string name="button_start_g6">Gen 6 Only</string>
+    <string name="button_start_all">All Gens</string>
+</resources>
